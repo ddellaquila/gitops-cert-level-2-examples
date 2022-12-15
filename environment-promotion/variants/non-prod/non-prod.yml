@@ -16,4 +16,4 @@ spec:
         - name: DB_USER
           value: "non-prod-user"
         - name: DB_PASSWORD
-          value: "non-prod-password"    
+          value: "non-prod-password"
